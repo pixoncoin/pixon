@@ -1,0 +1,6 @@
+usr/local/bin/pixon-qt usr/bin
+share/pixmaps/pixon32.xpm usr/share/pixmaps
+share/pixmaps/pixon16.xpm usr/share/pixmaps
+share/pixmaps/pixon128.png usr/share/pixmaps
+debian/pixon-qt.desktop usr/share/applications
+debian/pixon-qt.protocol usr/share/kde4/services/

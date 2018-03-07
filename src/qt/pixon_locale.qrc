@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/pixon_bg.qm</file>
+        <file alias="de">locale/pixon_de.qm</file>
+        <file alias="en">locale/pixon_en.qm</file>
+        <file alias="es">locale/pixon_es.qm</file>
+        <file alias="fi">locale/pixon_fi.qm</file>
+        <file alias="fr">locale/pixon_fr.qm</file>
+        <file alias="it">locale/pixon_it.qm</file>
+        <file alias="ja">locale/pixon_ja.qm</file>
+        <file alias="pl">locale/pixon_pl.qm</file>
+        <file alias="pt">locale/pixon_pt.qm</file>
+        <file alias="ru">locale/pixon_ru.qm</file>
+        <file alias="sk">locale/pixon_sk.qm</file>
+        <file alias="sv">locale/pixon_sv.qm</file>
+        <file alias="vi">locale/pixon_vi.qm</file>
+        <file alias="zh_CN">locale/pixon_zh_CN.qm</file>
+        <file alias="zh_TW">locale/pixon_zh_TW.qm</file>
+    </qresource>
+</RCC>

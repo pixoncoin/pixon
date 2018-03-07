@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Pixon
+Comment=Pixon P2P Cryptocurrency
+Comment[fr]=Pixon, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Pixon, eşten eşe kriptografik sanal para birimi
+Exec=pixon-qt %u
+Terminal=false
+Type=Application
+Icon=pixon128
+MimeType=x-scheme-handler/pixon;
+Categories=Office;Finance;
